@@ -466,3 +466,23 @@ footer h3 {
 .footer-links a:hover {
     color: #fed7aa;
 }
+.jai-rajasthan {
+    text-align: center;
+    margin: 35px auto;
+    padding: 30px 15px;
+    max-width: 900px;
+    background: linear-gradient(135deg, #7c2d12, #d97706);
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.15);
+}
+
+.jai-rajasthan h2 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.jai-rajasthan p {
+    font-size: 18px;
+    letter-spacing: 1px;
+}
