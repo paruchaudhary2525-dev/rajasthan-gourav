@@ -486,3 +486,9 @@ footer h3 {
     font-size: 18px;
     letter-spacing: 1px;
 }
+.hero img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    display: block;
+}
