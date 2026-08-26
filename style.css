@@ -492,3 +492,26 @@ footer h3 {
     object-fit: cover;
     display: block;
 }
+.hero {
+    padding: 0;
+    overflow: hidden;
+}
+
+.hero img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    display: block;
+}
+
+.hero h2 {
+    font-size: 30px;
+    margin: 20px 15px 10px;
+    color: #7c2d12;
+}
+
+.hero p {
+    font-size: 18px;
+    margin: 0 15px 20px;
+    color: #3b2414;
+}
