@@ -562,6 +562,9 @@ footer h3 {
     overflow: hidden !important;
     border-radius: 25px !important;
     margin: 20px auto !important;
+    width: 95% !important;
+    height: 430px !important;
+
 }
 
 .hero > img {
