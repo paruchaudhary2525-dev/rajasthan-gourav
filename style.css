@@ -515,3 +515,45 @@ footer h3 {
     margin: 0 15px 20px;
     color: #3b2414;
 }
+.hero {
+    position: relative;
+    overflow: hidden;
+    border-radius: 25px;
+    margin: 20px;
+}
+
+.hero > img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    border-radius: 25px;
+}
+
+.hero-text {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.28);
+    color: white;
+}
+
+.hero-text h2 {
+    color: white;
+    font-size: 34px;
+    margin-bottom: 10px;
+}
+
+.hero-text p {
+    color: white;
+    font-size: 18px;
+}
+
+.hero-text button {
+    margin-top: 10px;
+}
